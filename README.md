@@ -1,8 +1,6 @@
 ## Complete Website Downloader 💾
 Download the Complete Source Code of any Website (including all Assets) 🔨.
 
-👉 Live Demo: https://
-
 ![enter image description here](https://github.com/mouricedevs/website-downloader/blob/master/public/Record.gif?raw=true)
 <div align="center">
 
