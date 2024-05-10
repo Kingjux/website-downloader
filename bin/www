@@ -89,5 +89,6 @@ function onListening() {
   var bind = typeof addr === 'string'
     ? 'pipe ' + addr
     : 'port ' + addr.port;
-  debug('Running on ' + bind);
+  debug('Server Running on ' + bind);
 }
+
