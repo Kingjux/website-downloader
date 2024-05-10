@@ -39,13 +39,13 @@
   document.getElementById('progress').hidden=false;
   if(event.progress=="Converting")
   {
-    log.innerHTML=(`<h5>100%! Compressing your website...</h5><br>`)
+    log.innerHTML=(`<h5>100%! Compressing your Website...</h5><br>`)
 
   }
    else if(event.progress=="Completed")
    {
         document.getElementById('progress').hidden=true;
-        log.innerHTML=(`<code>Compressing completed successfully !</code><br>`)
+        log.innerHTML=(`<code>Compression Completed Successfully !</code><br>`)
         downloadWebsite.style='display:'
         downloadWebsite.onclick=function()
         {
