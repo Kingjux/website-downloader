@@ -6,8 +6,6 @@ Download the Complete Source Code of any Website (including all Assets) 🔨.
 ![enter image description here](https://github.com/mouricedevs/website-downloader/blob/master/public/Record.gif?raw=true)
 <div align="center">
 
-  <a href="">![CodeFactor](https://www.codefactor.io/repository/github/mouricedevs/website-downloader/badge)</a>
-
 </div>
 
 ## Description 📒
@@ -35,7 +33,7 @@ Download the Complete Source Code of any Website (including all Assets) 🔨.
 
 
 ## How to run it on Termux/Vps/Pc
-- Copy paste thrse commands one by one:
+- Copy paste these commands one by one:
 ```
 git clone https://github.com/mouricedevs/website-downloader.git
 ```
